@@ -3,13 +3,15 @@
 This is a simple android application to demo push notification with Firebase and PHP as a Backend. The PHP code to is shown below.
 You need to add your firebase server API Key and the registration Ids for the devices.
 
+You also need to generate **google-services.json** for your project from [Firebase](https://firebase.google.com/docs/android/setup)
+
 ###### PHP Backend code
 ```
 <?php
 #API access key from Google API's Console
 define( 'API_ACCESS_KEY', 'REPLACE WITH  YOUR SERVER API KEY HERE' );
 #You could modify this to read the ids from a database
-$registrationIds ='REPLACE WITH THE RECIPIENTS REG ID/REG TOKEN';
+$registrationIds ='REPLACE WITH THE RECIPIENT'S REG ID/REG TOKEN';
 $msg = array('body'=> 'Body  Of Notification','title'=> 'Title Of Notification');
 $fields = array('to'=> $registrationIds,'notification'	=> $msg);
 $headers = array('Authorization: key=' . API_ACCESS_KEY,'Content-Type: application/json');
