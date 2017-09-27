@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "228855895665",
+    "firebase_url": "https://ubercomplete.firebaseio.com",
+    "project_id": "ubercomplete",
+    "storage_bucket": "ubercomplete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228855895665:android:393b22cf11803cfd",
+        "android_client_info": {
+          "package_name": "io.walter.puber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228855895665-h4eei61treh5pb7mnremr7mo1vm5p6pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.walter.puber",
+            "certificate_hash": "3e00044619b6251bad66eaab02a78b1a96c1454f"
+          }
+        },
+        {
+          "client_id": "228855895665-v0g82d99jd3qfvvs6123kqdukuir0oj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EWJ0ZiJ5NAfoBDknoPKFDROoVdngWcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228855895665-v0g82d99jd3qfvvs6123kqdukuir0oj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228855895665:android:9286763329402f69",
+        "android_client_info": {
+          "package_name": "io.walter.cuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228855895665-3trd336ljmm7fha9cvit8p6hmvsogkts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.walter.cuber",
+            "certificate_hash": "3e00044619b6251bad66eaab02a78b1a96c1454f"
+          }
+        },
+        {
+          "client_id": "228855895665-v0g82d99jd3qfvvs6123kqdukuir0oj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EWJ0ZiJ5NAfoBDknoPKFDROoVdngWcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228855895665-v0g82d99jd3qfvvs6123kqdukuir0oj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228855895665:android:ceab39f50ea94a5a",
+        "android_client_info": {
+          "package_name": "io.walter.notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228855895665-v0g82d99jd3qfvvs6123kqdukuir0oj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EWJ0ZiJ5NAfoBDknoPKFDROoVdngWcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
